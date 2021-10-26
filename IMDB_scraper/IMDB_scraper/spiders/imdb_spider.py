@@ -1,8 +1,5 @@
 import scrapy
 
-#response.url + 'fullcredits'
-#response.url + link
-
 class ImdbSpider(scrapy.Spider):
     name = 'imdb_spider'
     
